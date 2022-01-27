@@ -1,0 +1,179 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "pname": "boAt Airdopes 121v2 TWS Earbuds",
+      "price": 3500,
+      "quantity": 1,
+      "images": "boatairdopes.jpg",
+      "day": "Monday"
+    },
+    {
+      "id": 2,
+      "pname": "boAt Rockerz 255 in-Ear Earphones",
+      "price": 5000,
+      "quantity": 1,
+      "images": "boatneckband.jpg",
+      "day": "Tuesday "
+    },
+    {
+      "id": 3,
+      "pname": "boAt Xtend Smartwatch with Alexa",
+      "price": 3000,
+      "quantity": 1,
+      "images": "boatsmart.jpg",
+      "day": "Wednesday "
+    },
+    {
+      "id": 4,
+      "pname": "Apple iPhone 11 (64GB) - Black",
+      "price": 8500,
+      "quantity": 1,
+      "images": "iphone11.jpg",
+      "day": "Thursday "
+    },
+    {
+      "id": 5,
+      "pname": "boAt Airdopes 121v2 TWS Earbuds",
+      "price": 2000,
+      "quantity": 1,
+      "images": "boatearbud.jpg",
+      "day": "Friday "
+    },
+    {
+      "id": 6,
+      "pname": "boAt Bassheads 100 Wired Earphones with Mic(Black)",
+      "price": 750,
+      "quantity": 1,
+      "images": "boathandfree.jpg",
+      "day": "Saturday "
+    },
+    {
+      "id": 7,
+      "pname": "boAt Rockerz 255 Earphones with 8 Hours Battery",
+      "price": 1200,
+      "quantity": 1,
+      "images": "boatneckband.jpg",
+      "day": "Sunday"
+    },
+    {
+      "id": 8,
+      "pname": "MI Bassheads 100 Wired Earphones with Mic(Black",
+      "price": 960,
+      "quantity": 1,
+      "images": "miearbud.jpeg",
+      "day": "Monday"
+    },
+    {
+      "id": 9,
+      "pname": "Mi Power Bank 3i 20000mAh | 18W Fast PD Charging ",
+      "price": 1700,
+      "quantity": 1,
+      "images": "mipower.jpg",
+      "day": "Sunday"
+    },
+    {
+      "id": 10,
+      "pname": "OnePlus Nord 2 5G (Blue Haze, 8GB RAM, 128GB)",
+      "price": 1300,
+      "quantity": 4,
+      "images": "oneplusphone.jpg",
+      "day": "Monday"
+    },
+    {
+      "id": 11,
+      "pname": "Nokia 105 Single SIM (Black) stongest phone",
+      "price": 1300,
+      "quantity": 4,
+      "images": "nokiaphone.jpg",
+      "day": "Saturday "
+    },
+    {
+      "id": 12,
+      "pname": "OnePlus Bullets Wireless Z Bass Edition Red",
+      "price": 1300,
+      "quantity": 4,
+      "images": "oneplushandfree.jpg",
+      "day": "Friday "
+    },
+    {
+      "id": 13,
+      "pname": "OnePlus Bullets Wireless Z Bass Edition Black",
+      "price": 1300,
+      "quantity": 4,
+      "images": "oneplusneckband.jpg",
+      "day": "Thursday "
+    },
+    {
+      "id": 14,
+      "pname": "OnePlus Nord 2 5G (Blue Haze, 8GB RAM, 128GB)",
+      "price": 1300,
+      "quantity": 4,
+      "images": "oneplusnord.jpg",
+      "day": "Wednesday "
+    },
+    {
+      "id": 15,
+      "pname": "Samsung Galaxy M12 (Blue,6GB RAM, 128GB)",
+      "price": 1300,
+      "quantity": 4,
+      "images": "samsungphone.jpg",
+      "day": "Tuesday "
+    },
+    {
+      "id": 16,
+      "pname": "Redmi 9 Activ (Carbon Black, 4GB RAM, 64GB)",
+      "price": 1300,
+      "quantity": 4,
+      "images": "redmiphone.jpg",
+      "day": "Monday"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "cname": "HTML",
+      "desc": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript",
+      "img": "html.jpg"
+    },
+    {
+      "id": 2,
+      "cname": "CSS",
+      "desc": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+      "img": "css.png"
+    },
+    {
+      "id": 3,
+      "cname": "JavaScript",
+      "desc": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled and multi-paradigm. It has dynamic typing",
+      "img": "js.png"
+    },
+    {
+      "id": 4,
+      "cname": "Jquery",
+      "desc": "jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free, open-source software",
+      "img": "jquery.png"
+    },
+    {
+      "id": 5,
+      "cname": "Java",
+      "desc": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+      "img": "java.jpg"
+    },
+    {
+      "id": 6,
+      "cname": "Python",
+      "desc": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation.",
+      "img": "python.png"
+    }
+  ],
+  "enquiries": [
+    {
+      "eName": "naveen",
+      "email": "naveenpatidar3330@gmail.com",
+      "contact": "7354682183",
+      "coursename": "CSS",
+      "id": 1
+    }
+  ]
+}
